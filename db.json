@@ -1,0 +1,47 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone 14 Pro Max",
+      "price": 26490000,
+      "original_price": 29990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-600x600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "IPhone 14 Pro",
+      "price": 24490000,
+      "original_price": 27990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/247508/iphone-14-pro-vang-thumb-600x600.jpg"
+    },
+    {
+      "name": "IPhone 14 Plus",
+      "price": 21790000,
+      "original_price": 249900000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/245545/iPhone-14-plus-thumb-den-600x600.jpg",
+      "id": 3
+    },
+    {
+      "name": "IPhone 11 Pro",
+      "price": 99909000,
+      "original_price": 1080030000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-trang-600x600.jpg",
+      "id": 4
+    },
+    {
+      "name": "IPhone 13 mini 128GB",
+      "price": 15990000,
+      "original_price": 16890000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/236780/iphone-13-mini-pink-1-600x600.jpg",
+      "id": 5
+    },
+    {
+      "name": "IPhone 13",
+      "price": 16980000,
+      "original_price": 18900000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/245545/iPhone-14-plus-thumb-den-600x600.jpg",
+      "id": 6
+    }
+  ]
+}
